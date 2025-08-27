@@ -1,1 +1,2 @@
 this is a.txt
+now I edited this file from newbranch (a.txt)
